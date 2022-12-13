@@ -1,2 +1,2 @@
 # FutPong---Pygame---Jogo
-À finalizar!
+Finalizado
