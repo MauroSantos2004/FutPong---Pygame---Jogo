@@ -1,1 +1,9 @@
-Projeto do 1° período do curso em que estudo Ciência da Computação
+### Projeto final do 1° período no curso Ciẽncia da computação
+
+## Infelizmente não foi possível disponibilizar o apk do jogo.
+
+Mas caso de análise, segue um link da forma como o professor
+solicitou e a forma final do projeto!
+
+Segue o link:
+https://youtu.be/5_6cN04JUfM
